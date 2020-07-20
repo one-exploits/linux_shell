@@ -1,0 +1,2 @@
+# linux_shell
+We all use the built in terminal window in Linux distributions like Ubuntu, Fedora, etc. But how do they actually work? In this article, We are going to handle some under the hood features and algorithms what actually work inside a shell. All Linux operating systems have a terminal window to write in commands. But how are they executed properly after they are entered? Also, how are extra features like keeping the history of commands and showing help handled? All of this can be understood by creating your own shell
